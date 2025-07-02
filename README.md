@@ -112,4 +112,25 @@ Department-wise performance
 
 🕒 Employees with <2 years of experience show 2x attrition rate compared to those >5 years.
 
+Profit & Loss Insights :
+
+Top Profitable Products: Identify which products contribute the most to revenue and profit.
+
+High-Cost Low-Profit Items: Spot items that cost more to sell but generate low profit margins.
+
+Return & Cancellation Impact: Assess how many orders were canceled/returned and their impact on total profit.
+
+Seasonal Profit Variations: Determine if certain months have higher or lower profitability.
+
+Major Sales Trends :
+Bestselling Products: Identify the most frequently ordered products.
+
+Top Revenue-Generating Categories: Find which categories drive the highest sales.
+
+Customer Segmentation: Check which customer groups contribute the most revenue.
+
+Regional Sales Performance: Identify which locations perform best in sales.
+
+Peak Sales Periods: Recognize if sales spike on certain days, months, or seasons.
+
 
