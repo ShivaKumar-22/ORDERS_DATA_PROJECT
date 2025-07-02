@@ -1,6 +1,7 @@
 # ORDERS_DATA_PROJECT
 
 🔍 Step-by-Step Process for HR Data Analysis in Power BI
+
 ✅ Step 1: Load the Data
 Open the .pbix file in Power BI Desktop.
 
